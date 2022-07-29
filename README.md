@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **rubayetaivrda@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GwWKiZtVxE2M1aYvEOwppQLfGr7iJ5uJ/view?usp=sharing](https://drive.google.com/file/d/1GwWKiZtVxE2M1aYvEOwppQLfGr7iJ5uJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GwWKiZtVxE2M1aYvEOwppQLfGr7iJ5uJ/view?usp=sharing)
 
 - ⚡ Fun fact **tabs are better than spaces**
 
