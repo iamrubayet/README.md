@@ -53,6 +53,33 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrubayet&" alt="iamrubayet" /></p>
 
 
+## Projects
+
+### Web
+
+[![Gif Search](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=GiF-Search)](https://github.com/iamrubayet/GiF-Search)[![Blog application](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Blog-app)](https://github.com/iamrubayet/Blog-app)[![Note Taking app](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Note-taking-app)](https://github.com/iamrubayet/Note-taking-app)[![Memes Maker](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=MemesMaker)](https://github.com/iamrubayet/MemesMaker)
+
+
+### Machine Learning
+
+[![Fatal Diseases prediction](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Fatal-disease-detector)](https://github.com/iamrubayet/Fatal-disease-detector)[![Article summarizer](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Article_Summarizer)](https://github.com/iamrubayet/Article_Summarizer)
+
+
+### Blockchain application
+
+[![Decentralized chat app](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Decentralized-chat-app)](https://github.com/iamrubayet/Decentralized-chat-app)
+
+
+### Games
+
+[![Flappy bird clone](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=flappy-bird-clone)](https://github.com/iamrubayet/flappy-bird-clone)[![Space invader](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Space_invader)](https://github.com/iamrubayet/Space_invader)
+
+
+### Desktop application
+
+[![Space-Shooter-Desktop-App(https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Space-Shooter-Desktop-App)](https://github.com/iamrubayet/Space-Shooter-Desktop-App)
+
+
 
 
 
