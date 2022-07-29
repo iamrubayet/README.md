@@ -77,7 +77,7 @@
 
 ### Desktop application
 
-[![Space-Shooter-Desktop-App(https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Space-Shooter-Desktop-App)](https://github.com/iamrubayet/Space-Shooter-Desktop-App)
+[![Space-Shooter-Desktop-App](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Space-Shooter-Desktop-App)](https://github.com/iamrubayet/Space-Shooter-Desktop-App)
 
 
 
