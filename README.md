@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Webrtc, Oauth 2.0**
 
-- 📝 I regularly write articles on [https://dev.to/rubayet170746](https://dev.to/rubayet170746)
+- 📝 I regularly write articles on [dev.to](https://dev.to/rubayet170746)
 
 - 💬 Ask me about **Full stack development**
 
