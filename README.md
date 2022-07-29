@@ -1,7 +1,7 @@
 # README.md
 
 <h1 align="center">Hi 👋, I'm Shahriar Rahman Rubayet</h1>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
+<h3 align="center">A passionate software engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrubayet&label=Profile%20views&color=0e75b6&style=flat" alt="iamrubayet" /> </p>
 
