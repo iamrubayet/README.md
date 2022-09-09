@@ -6,18 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrubayet&label=Profile%20views&color=0e75b6&style=flat" alt="iamrubayet" /> </p>
 
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Video sharing web app**
 
 - 🌱 I’m currently learning **Tensorflow,Pytorch,**
 
 - 👯 I’m looking to collaborate on **Open source projects**
-
-- 🤝 I’m looking for help with **Webrtc, Oauth 2.0**
-
-- 📝 I regularly write articles on [dev.to](https://dev.to/rubayet170746)
 
 - 💬 Ask me about **Full stack development**
 
