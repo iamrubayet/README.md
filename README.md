@@ -25,24 +25,24 @@
 
 - 🗄️ **Backend:**
 
-  - **Language:** `PHP` • `JavaScript(Node.js)`
-  - **Framework:** `Laravel` • `Lumen` • `Nest.js` • `Express.js`
-  - **Databases:** `MySQL` • `PostgreSQL`
-  - **System Architecture:** `Monolithic` • `Modular`
+  - **Language:** `C++` • `Java`• `PHP` • `JavaScript(Node.js)`• `Python`
+  - **Framework:** `Laravel` • `Spring` • `Flask` • `Django` • `Express.js`
+  - **Databases:** `MySQL` • `SQlite` • `NoSQL`
+  - **System Architecture:** `Monolithic` 
   - **Protocol:** `REST` • `Web Socket`
 
 - 🖥 **Frontend:**
 
   - **Language:** `JavaScript`
-  - **Framework/Library:** `React.js` • `Docusaurus` • `Next.js` • `Gatsby`
-  - **UI Toolkit:** `Ant Design` • `MUI`
-  - **Utils:** `Tailwind` • `Bootstrap` • `Modular CSS`
+  - **Framework/Library:** `React.js` • `Docusaurus` 
+  - **UI Toolkit:** `Figma` 
+  - **Utils:** `Tailwind` • `Bootstrap` 
 
 - 🎡 **Ecosystem:**
-  - **Containerization:** `Docker` • `Rancher Desktop` • `GitHub Codespaces`
+  - **Containerization:** `Docker` • `GitHub Codespaces`
   - **Version Control:** `Git` • `GitHub`
   - **CI/CD:** `Github Actions` • `Travis CI`
-  - **Project Management:** `Jira` • `GitHub Projects` • `Trello` • `Asana`
+  - **Project Management:** `Trello` • 
 
 
 
