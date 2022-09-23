@@ -65,7 +65,7 @@
 
 ### Web
 
-[![Gif Search](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=GiF-Search)](https://github.com/iamrubayet/GiF-Search)[![Blog application](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Blog-app)](https://github.com/iamrubayet/Blog-app)[![Note Taking app](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Note-taking-app)](https://github.com/iamrubayet/Note-taking-app)[![Memes Maker](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=MemesMaker)](https://github.com/iamrubayet/MemesMaker)
+[![Gif Search](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=GiF-Search&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/GiF-Search)[![Blog application](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Blog-app)](https://github.com/iamrubayet/Blog-app)[![Note Taking app](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Note-taking-app)](https://github.com/iamrubayet/Note-taking-app)[![Memes Maker](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=MemesMaker)](https://github.com/iamrubayet/MemesMaker)
 
 
 ### Machine Learning
