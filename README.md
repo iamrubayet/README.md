@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrubayet&label=Profile%20views&color=0e75b6&style=flat" alt="iamrubayet" /> </p>
 
 
-- 🔭 I’m currently working on **Video sharing web app**
+- 🔭 I’m currently working on **file sharing web app**
 
 - 🌱 I’m currently learning **Tensorflow,Pytorch,**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **Full stack development**
+- 💬 Ask me about **Full Stack Development || Machine Learning || Deep Learning**
 
 - 📫 How to reach me **rubayetaivrda@gmail.com**
 
