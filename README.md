@@ -70,7 +70,7 @@
 
 ### Machine Learning
 
-[![Fatal Diseases prediction](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Fatal-disease-detector)](https://github.com/iamrubayet/Fatal-disease-detector)[![Article summarizer](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Article_Summarizer)](https://github.com/iamrubayet/Article_Summarizer)
+[![Fatal Diseases prediction](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Fatal-disease-detector)](https://github.com/iamrubayet/Fatal-disease-detector)
 
 
 ### Blockchain application
