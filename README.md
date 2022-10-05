@@ -6,19 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrubayet&label=Profile%20views&color=0e75b6&style=flat" alt="iamrubayet" /> </p>
 
 
-- 🔭 I’m currently working on **file sharing web app**
-
 - 🌱 I’m currently learning **Tensorflow,Pytorch,**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **Full Stack Development || Machine Learning || Deep Learning**
+- 💬 Ask me about **Full Stack Development || Machine Learning || Deep Learning || Natural Language Processing || Computer Vision**
 
 - 📫 How to reach me **rubayetaivrda@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GwWKiZtVxE2M1aYvEOwppQLfGr7iJ5uJ/view?usp=sharing)
 
-- ⚡ Fun fact **tabs are better than spaces**
+- ⚡ Jack of all trade master of none**
 
 
 #### What are my skill sets?
