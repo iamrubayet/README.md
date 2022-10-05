@@ -65,27 +65,27 @@
 
 ### Web
 
-[![Gif Search](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=GiF-Search&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/GiF-Search)[![Blog application](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Blog-app)](https://github.com/iamrubayet/Blog-app)[![Note Taking app](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Note-taking-app)](https://github.com/iamrubayet/Note-taking-app)[![Memes Maker](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=MemesMaker)](https://github.com/iamrubayet/MemesMaker)
+[![Gif Search](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=GiF-Search&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/GiF-Search)[![Blog application](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Blog-app&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/Blog-app)[![Note Taking app](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Note-taking-app&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/Note-taking-app)[![Memes Maker](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=MemesMaker&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/MemesMaker)
 
 
 ### Machine Learning
 
-[![Fatal Diseases prediction](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Fatal-disease-detector)](https://github.com/iamrubayet/Fatal-disease-detector)
+[![Fatal Diseases prediction](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Fatal-disease-detector&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/Fatal-disease-detector)
 
 
 ### Blockchain application
 
-[![Decentralized chat app](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Decentralized-chat-app)](https://github.com/iamrubayet/Decentralized-chat-app)
+[![Decentralized chat app](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Decentralized-chat-app&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/Decentralized-chat-app)
 
 
 ### Games
 
-[![Flappy bird clone](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=flappy-bird-clone)](https://github.com/iamrubayet/flappy-bird-clone)[![Space invader](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Space_invader)](https://github.com/iamrubayet/Space_invader)
+[![Flappy bird clone](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=flappy-bird-clone&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/flappy-bird-clone)[![Space invader](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Space_invader&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/Space_invader)
 
 
 ### Desktop application
 
-[![Space-Shooter-Desktop-App](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Space-Shooter-Desktop-App)](https://github.com/iamrubayet/Space-Shooter-Desktop-App)
+[![Space-Shooter-Desktop-App](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Space-Shooter-Desktop-App&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/Space-Shooter-Desktop-App)
 
 
 
