@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **Full Stack Development || Machine Learning || Deep Learning || Natural Language Processing || Computer Vision**
+- 💬 Ask me about **Full Stack Development || Machine Learning || Deep Learning || Natural Language Processing **
 
 - 📫 How to reach me **rubayetaivrda@gmail.com**
 
