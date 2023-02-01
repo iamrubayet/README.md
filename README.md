@@ -68,7 +68,7 @@
 
 ### Machine Learning
 
-[![Fatal Diseases prediction](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Fatal-disease-detector&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/Fatal-disease-detector)
+[![Fatal Diseases prediction](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Fatal-disease-detector&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/Fatal-disease-detector)[![Chat Bot](https://github-readme-stats.vercel.app/api/pin/?username=iamrubayet&repo=Chatbot&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/iamrubayet/Chatbot)
 
 
 ### Blockchain application
