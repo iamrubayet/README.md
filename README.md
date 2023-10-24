@@ -23,10 +23,10 @@
 
 - 🗄️ **Backend:**
 
-  - **Language:** `C++` • `Java`• `PHP` • `JavaScript(Node.js)`• `Python`
-  - **Framework:** `Laravel` • `Spring` • `Flask` • `Django` • `Express.js`
+  - **Language:** `C++` • `Java`• `Go` • `JavaScript(Node.js)`• `Python`
+  - **Framework:** `Django Rest Framework` • `FastApi` • `Flask` • `Django` • `Express.js`
   - **Databases:** `MySQL` • `SQlite` • `NoSQL`
-  - **System Architecture:** `Monolithic` 
+  - **System Architecture:** `Monolithic` . `Microservices`
   - **Protocol:** `REST` • `Web Socket`
 
 - 🖥 **Frontend:**
